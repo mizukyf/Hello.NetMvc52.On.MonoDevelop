@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello.NetMvc52.On.MonoDevelop", "Hello.NetMvc52.On.MonoDevelop\Hello.NetMvc52.On.MonoDevelop.csproj", "{1EE2E232-B137-4A22-B483-CE9D5050044D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello.NetMvc52.On.MonoDevelop.Tests", "Hello.NetMvc52.On.MonoDevelop.Tests\Hello.NetMvc52.On.MonoDevelop.Tests.csproj", "{B25F03EB-C653-41C3-874E-7E3D49FFD077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE2E232-B137-4A22-B483-CE9D5050044D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE2E232-B137-4A22-B483-CE9D5050044D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE2E232-B137-4A22-B483-CE9D5050044D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE2E232-B137-4A22-B483-CE9D5050044D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25F03EB-C653-41C3-874E-7E3D49FFD077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25F03EB-C653-41C3-874E-7E3D49FFD077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25F03EB-C653-41C3-874E-7E3D49FFD077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25F03EB-C653-41C3-874E-7E3D49FFD077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
